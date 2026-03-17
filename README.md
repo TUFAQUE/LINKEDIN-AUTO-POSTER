@@ -64,4 +64,5 @@
 
 ## ⭐ If this helped you, give it a star!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)][(https://www.linkedin.com/in/tufaque-sayyed-843596364/)]
+
